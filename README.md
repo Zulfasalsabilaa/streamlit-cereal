@@ -74,7 +74,7 @@ Untuk melihat sebaran data pada dataset ini kita dapat memanggilnya dengan cara
 
     plt.figure(figsize=(10,8))
     sns.heatmap(df.corr(),annot=True)
-    ![](output2.png)
+    
     
 Lalu kita akan coba tampilkan distribusi dengan menggunakan dsiplot
 
