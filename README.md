@@ -101,4 +101,5 @@ Berdasarkan hasil perhitungan yang telah dilakukan dengan menginputkan data yang
 ## Deployment
 https://app-cereal-4bzxux4xbz7giu98zgsxuw.streamlit.app/
 
-![Alt text](image.png)    
+<img width="434" alt="image" src="https://github.com/Zulfasalsabilaa/streamlit-cereal/assets/147803627/27f24458-d8ae-4b94-a114-3924a0257ff2">
+ 
