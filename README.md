@@ -42,7 +42,7 @@ Contoh: https://www.kaggle.com/datasets/crawford/80-cereals
  
 
 ### Variabel-variabel pada 80 Cereals Dataset adalah sebagai berikut:
-- calories : Kalori Per Porsi (Integer)
+- calories : Kalori Per Porsi  (Integer)
 - protein : Gram Protein (Integer)
 - fat : Gram Lemak (Integer)
 - sodium : Miligram Natrium (Integer)
