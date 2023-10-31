@@ -80,8 +80,8 @@ Lalu kita akan coba tampilkan distribusi dengan menggunakan dsiplot
 
     plt.figure(figsize=(15,5))
     sns.distplot(df['fat'])
-    ![](output3.png)
-
+    
+![](output3.png)
 ## Modeling
 Sebelumnya mari kita import library yang nanti akan digunakan.
 
@@ -100,4 +100,5 @@ Berdasarkan hasil perhitungan yang telah dilakukan dengan menginputkan data yang
 
 ## Deployment
 https://app-cereal-4bzxux4xbz7giu98zgsxuw.streamlit.app/
-    ![Alt text](image.png)
+
+![Alt text](image.png)    
