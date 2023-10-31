@@ -64,6 +64,23 @@ pertama kita mengimport semua library yang dibutuhkan.
     import numpy as np 
     import matplotlib.pyplot as plt 
     import seaborn as sns
+Untuk melihat apakah terdapat nilai yang kosong pada dataset.maka kita dapat memanggilnya dengan cara 
+
+    sns.heatmap(df.isnull())
+    ![](output.png)
+    
+Untuk melihat sebaran data pada dataset ini kita dapat memanggilnya dengan cara 
+
+    plt.figure(figsize=(10,8))
+    sns.heatmap(df.corr(),annot=True)
+    ![](output2.png)
+    
+Lalu kita akan coba tampilkan distribusi dengan menggunakan dsiplot
+
+    plt.figure(figsize=(15,5))
+    sns.distplot(df['fat'])
+    ![](output3.png)
+
 ## Modeling
 Sebelumnya mari kita import library yang nanti akan digunakan.
 
