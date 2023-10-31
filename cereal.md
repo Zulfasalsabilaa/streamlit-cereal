@@ -67,8 +67,9 @@ pertama kita mengimport semua library yang dibutuhkan.
 Untuk melihat apakah terdapat nilai yang kosong pada dataset.maka kita dapat memanggilnya dengan cara 
 
     sns.heatmap(df.isnull())
-    ![](output.png)
     
+    
+![](output.png)
 Untuk melihat sebaran data pada dataset ini kita dapat memanggilnya dengan cara 
 
     plt.figure(figsize=(10,8))
